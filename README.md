@@ -40,7 +40,7 @@
 
 ![gambar1](gambar/gambargg10.png)
 
-![gambar1](gambar/gambargg9.png)
+![gambar1](gambar/gambargg13.png)
 
 - Fungsi untuk mengubah data berdasarkan nama
 
