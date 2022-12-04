@@ -14,7 +14,7 @@
 - Fungsi - Tampilkan() untuk menampilkn data
 - Fungsi - Hapus(nama) untuk menghapus data berdasarkan nama
 - Fungsi - Ubah (nama) untuk mengubah data berdasarkan nama
-- Buat flowchart dengan penjelasan README.md
+- Buat penjelasan README.md
 
 # Daftar nilai menggunakan fungsi
 
@@ -22,7 +22,7 @@
 
 ![gambar1](gambar/gambargg3.png)
 
-# Setelah dictionary,kita akan menampilan data dengan menggunakan fungsi
+# Setelah dictionary, kita akan menampilan data dengan menggunakan fungsi
 
 - Fungsi untuk menambahkan data 
 
@@ -47,7 +47,3 @@
 ![gambar1](gambar/gambargg8.png)
 
 ![gambar1](gambar/gambargg11.png)
-
-# FLOWCHART PRAKTIKUM 7
-
-![gambar1](gambar/gambar1.png)
