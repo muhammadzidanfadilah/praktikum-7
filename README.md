@@ -47,3 +47,8 @@
 ![gambar1](gambar/gambargg10.png)
 
 ![gambar1](gambar/gambargg13.png)
+
+# FLOWCHART PRAKTIKUM 7
+
+![gambar1](gambar/gambargg30.jpeg)
+
