@@ -50,5 +50,5 @@
 
 # FLOWCHART PRAKTIKUM 7
 
-![gambar1](gambar/gambargg30.jpeg)
+![gambar1](gambar/gambargg31.jpg)
 
