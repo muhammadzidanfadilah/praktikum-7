@@ -13,7 +13,7 @@
 - Fungsi - Tambah() untuk menambah data 
 - Fungsi - Tampilkan() untuk menampilkn data
 - Fungsi - Hapus(nama) untuk menghapus data berdasarkan nama
-- Fungsi - Ubah (nama) untuk mengubah data berdasarkan nama
+- Fungsi - Ubah(nama) untuk mengubah data berdasarkan nama
 - Buat penjelasan README.md
 
 # Daftar nilai menggunakan fungsi
@@ -38,12 +38,12 @@
 
 - Fungsi untuk menghapus data berdasarkan nama
 
-![gambar1](gambar/gambargg10.png)
-
-![gambar1](gambar/gambargg13.png)
-
-- Fungsi untuk mengubah data berdasarkan nama
-
 ![gambar1](gambar/gambargg8.png)
 
 ![gambar1](gambar/gambargg11.png)
+
+- Fungsi untuk mengubah data berdasarkan nama
+
+![gambar1](gambar/gambargg10.png)
+
+![gambar1](gambar/gambargg13.png)
