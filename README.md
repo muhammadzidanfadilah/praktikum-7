@@ -14,7 +14,7 @@
 - Fungsi - Tampilkan() untuk menampilkn data
 - Fungsi - Hapus(nama) untuk menghapus data berdasarkan nama
 - Fungsi - Ubah(nama) untuk mengubah data berdasarkan nama
-- Buat penjelasan README.md
+- Buat flowchart dan berikan penjelasan README.md
 
 # Daftar nilai menggunakan fungsi
 
